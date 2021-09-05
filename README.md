@@ -9,4 +9,4 @@
   
   **Utilities folder contains a base class which has all the common utilities**  
   
-  **The test case contains an end to end automation**
+  **The test case contains an end to end test scenario**
